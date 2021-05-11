@@ -3,14 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Series.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/proyectoaula.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/DatosExpedientes.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/ParteProcesal.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/DatosDocumentos.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/ConsultaProcesos.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/TipoDocumental.java</file>
-            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Usuarios.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Registro/RegistroExpedientes.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Dominio/DatosExpedientes.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Acceso/AccesoDatos.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Acceso/ArrayAccesoUsuario.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Credenciales/Abierto.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Registro/RegistroUsuario.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Acceso/AccesoUsuario.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/MenuAdmin.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/MenuAbierto.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Credenciales/SuperAdmin.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/IniciarSesion.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Vista/main.java</file>
+            <file>file:/C:/Users/usuario/Documents/NetBeansProjects/ProyectoAula/src/Credenciales/Coordinador.java</file>
         </group>
     </open-files>
 </project-private>
